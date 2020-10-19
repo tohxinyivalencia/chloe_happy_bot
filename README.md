@@ -1,1 +1,1 @@
-# chloe_encouragment_bot
+# chloe_happy_bot
